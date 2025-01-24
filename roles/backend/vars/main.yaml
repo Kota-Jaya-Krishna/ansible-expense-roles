@@ -1,0 +1,5 @@
+APP_LOCATION: /app
+COMPONENT: backend
+MYSQL_HOST: mysql.learndevopsacademy.online
+MYSQL_USER: root
+MYSQL_PASSWORD: ExpenseApp@1
